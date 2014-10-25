@@ -5,12 +5,13 @@ The congiguration file of vim on my machine, a bunch of installed plugins includ
 
 * ctags (indexing system)
 * neocomplcache (keyword completion system!!)
-* NERDTree (A tree explorer plugin for navigating the filesystem)
-* miniBufferExplorer (list your open buffers as tabs along the top or bottom of your screen) 
-* etc ... (looking into the directory vim for more details)
+* NERDTree (tree explorer plugin for navigating the filesystem)
+* miniBufferExplorer (plugin for listing open buffers as tabs) 
+* etc ... 
 
-###
-Installation 
+looking into the directory vim for more interesting staff!
+
+##Installation 
 
 Simply open the terminal and run the install.sh:
 ```
